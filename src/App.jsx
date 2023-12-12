@@ -1,3 +1,4 @@
+import TravelList from "./components/TravelList";
 import logo from "./assets/logo.png";
 import "./App.css";
 
@@ -11,7 +12,7 @@ function App() {
       <h3 className="text-iron">Tailored Travel Plans for Ironhackers</h3>
 
       {/* RENDER YOUR LIST COMPONENT HERE */}
-      
+      <TravelList />
     </>
   );
 }

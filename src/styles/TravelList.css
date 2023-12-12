@@ -1,0 +1,76 @@
+div {
+    margin: 20px;
+    background-color: white;
+  }
+  h2 {
+    color: black;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  img {
+    max-width: 450px;
+    height: auto;
+    border-radius: 5px;
+    margin: 10px;
+  }
+  
+  h3 {
+    color: black;
+  }
+  
+  p {
+    color: black;
+  }
+  
+  .bold-text {
+    font-weight: bold;
+  }
+  
+  .travel-onePlan-item {
+    display: flex;
+    align-items: flex-start;
+    border: 1px solid black;
+    margin: 15px 0;
+    padding: 10px;
+  }
+  
+  .textPart {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin: 0;
+    margin-left: 20px;
+  }
+  
+  .label-container {
+    display: flex;
+    margin-left: 1px;
+  }
+  
+  .label {
+    display: inline-block;
+    padding: 5px;
+    margin-top: 5px;
+    border-radius: 5px;
+    font-weight: bold;
+  }
+  
+  .great-deal {
+    background-color: darkolivegreen;
+    color: black;
+  }
+  
+  .premium {
+    background-color: #5c6ab7;
+    color: #fff;
+    margin-right: 5px;
+  }
+  
+  .all-inclusive {
+    background-color: #5c6ab7;
+    color: #fff;
+  }
